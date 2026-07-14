@@ -1,0 +1,16 @@
+[
+{
+  "modid": "portablefurnace",
+  "name": "Portable Furnace",
+  "description": "Adds portable furnaces allowing you to cook anywhere, at anytime",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AwesomeHippo"],
+  "credits": "",
+  "logoFile": "assets/portablefurnace/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
